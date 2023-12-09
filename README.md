@@ -14,3 +14,12 @@ Join the 100 Days Coding Challenge Lounge:
 https://sandhyamishra562-Tech-talk.personal.ai.
 
 #100DaysCodingChallenge #Coding,Journey #TechChallenge #CodeLife
+
+Post the link of linkedIn post in the lounge in the below format
+Lounge Link
+https://sandhyamishra562-Tech-talk.personal.ai.
+
+LOUNGE POST FORMAT:
+Post 1
+Your Name:
+Post Link

@@ -1,7 +1,5 @@
 https://leetcode.com/problems/greatest-common-divisor-of-strings/description/
 
-
-
 class Solution {
     public String gcdOfStrings(String str1, String str2) {
 
